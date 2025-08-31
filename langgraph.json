@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "chatbot_graph"
+  ],
+  "graphs": {
+    "chatbot": "chatbot_graph:graph"
+  }
+}
