@@ -1,0 +1,136 @@
+company:
+  name: Environ Adapt
+  tagline: Pioneering waste management through clean technology and circular solutions
+  about: |
+    Environ Adapt is a leading waste management company that combines cutting-edge technology with a strong commitment to environmental sustainability and improved working conditions in the informal sector. 
+    It drives the digital transformation of waste management in Egypt and beyond, serving brand owners, governments, waste companies, and communities.
+
+solutions:
+  - name: Dawar
+    type: Community & Circular Economy Platform
+    description: |
+      Dawar is Environ Adapt’s app for circular solutions. It empowers residents, informal waste pickers, recyclers, and brand owners to participate in the circular economy.
+    features:
+      - title: Report Street Waste
+        description: Snap a photo of litter; Dawar notifies the responsible collector and shares an "after" photo when cleaned.
+      - title: Request Sorted Waste Pickup
+        description: Schedule pickup of recyclable materials from homes or businesses.
+      - title: Sustainability News & Awareness
+        description: Stay informed with eco-friendly tips, news, and educational content via Dawar News and the Sustainability Hub.
+      - title: Dawar Marketplace
+        description: Buy and sell high-quality recyclable materials such as PET flakes, PET pellets, and cardboard.
+        materials:
+          - PET Flakes
+          - PET Pellets
+          - Cardboard
+        location: Egypt
+        call_to_action: Contact us if you want to buy or sell other waste materials.
+
+    target_users:
+      - Households
+      - Informal Waste Pickers
+      - Collection Centers
+      - Haulers
+      - Recycling Facilities
+      - Brand Owners
+      - General Public
+
+    community: |
+      The Dawar Community includes anyone contributing to the circular economy — from people who sort waste at home to waste pickers and designers repurposing trash into art. We're all connected through sustainable action.
+
+  - name: Adapt
+    type: Waste Management Operations Platform
+    description: |
+      A smart digital solution for waste management companies to streamline operations, optimize resources, and enhance efficiency.
+    features:
+      - title: Smart Waste Bin Management
+        description: Monitor bin locations and fill levels in real time via a centralized dashboard.
+      - title: Fleet Management
+        description: Optimize vehicle routes and track fleet performance for maximum efficiency.
+      - title: Waste Task Force Management
+        description: Assign tasks, track completion, and take attendance using face recognition technology.
+      - title: Waste Stream Insights
+        description: Leverage historical and real-time data to gain actionable insights and make data-driven decisions.
+
+    target_users:
+      - Waste Collection Companies
+      - Municipalities
+      - Government Contractors
+
+dawar_solutions_for_brands:
+  - title: Waste Traceability
+    description: |
+      Digital tracking of post-consumer waste (e.g., PET, HDPE, UBC) from collection to recycling. Ensures compliance with Extended Producer Responsibility (EPR) mandates.
+    clients:
+      - The Coca-Cola Company (World Without Waste program)
+      - PepsiCo
+      - Unilever
+      - Tetra Pak (UBC pilot)
+      - Nestlé Waters
+      - Al Ahram Beverages
+
+  - title: Ethical Sourcing
+    description: |
+      Monitors health, safety, and working conditions in the informal waste sector. Provides insights aligned with international labor standards and UN SDGs.
+    developed_with: Fair Labor Organization
+
+  - title: Waste Collection Development Projects
+    description: |
+      Custom projects designed to meet sustainability targets, integrate local communities, and ensure ethical compliance.
+
+  - title: Environmental Awareness
+    description: |
+      Training sessions for employees and factory workers (in Arabic and English). Content delivery through Dawar News and the Sustainability Hub.
+    past_engagements:
+      - Informa Markets (Automotive Exhibit 2019)
+      - Unilever (employee awareness programs)
+
+partnerships:
+  brand_owners:
+    - The Coca-Cola Company
+    - PepsiCo
+    - Unilever
+    - Tetra Pak
+    - Nestlé Waters
+    - Al Ahram Beverages
+
+  ngos:
+    - HEPCA (Reducing ocean plastics in the Red Sea)
+    - Fair Labor Organization (Ethical sourcing framework)
+    - Banlastic (Beach waste to energy in Alexandria)
+
+  government_institutions:
+    - Ministry of Environment (Egypt) – Digital monitoring system pilot in Maadi & Tora (with GIZ)
+    - Ministry of Local Development – Performance monitoring of Cairo’s 2021 waste contracts (East & West)
+    - Waste Management Regulatory Authority (WMRA) – EPR and Law 202/2020 alignment
+    - GIZ – Funded capacity-building programs for sustainable waste management
+
+  events_and_partners:
+    - Informa Markets – Sustainability consultancy for Automotive Exhibit (2019)
+    - Tri Factory – Official waste management partner for Pyramids Marathon (zero waste at heritage sites)
+
+history:
+  launch_year: 2018
+  origin: |
+    Dawar started as a beta test for a photo-sharing feature. A "before and after" post about cleaning street waste went viral on Facebook, resulting in 20,000 downloads in two weeks and ranking #1 in the Productivity category in Egypt.
+  concept: |
+    Residents snap photos of street waste → app sends report to local collector → collector cleans and uploads "after" photo → user receives confirmation.
+  recognition: Featured in a leading Japanese newspaper for innovative urban waste engagement.
+
+certifications:
+  - standard: ISO 9001
+    scope: Quality Management Systems
+    description: |
+      Ensures consistent service quality, customer satisfaction, and continuous improvement in all operations.
+
+  - standard: ISO 27001
+    scope: Information Security Management
+    description: |
+      Protects data integrity, privacy, and security across digital platforms.
+
+  - readiness: Blockchain-Compliant
+    description: |
+      Systems are prepared for blockchain integration to ensure transparent, secure, and tamper-proof waste traceability.
+
+call_to_action: |
+  Join the Dawar Community today — whether you're sorting waste at home, collecting recyclables, or building a sustainable business. Download the Dawar app and be part of the circular economy.
